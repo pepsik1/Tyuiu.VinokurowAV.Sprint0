@@ -1,9 +1,13 @@
 <Solution>
   <Configurations>
+    <Platform Name="Any CPU" />
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
   <Folder Name="/Task0/">
     <Project Path="Tyuiu.VinokurovAv.Sprint0.Task0.V0/Tyuiu.VinokurovAv.Sprint0.Task0.V0.vcxproj" Id="dc586327-0c6a-409a-afea-e33e7a02c237" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.VinokurowAV.Sprint0.Task1.V0/Tyuiu.VinokurowAV.Sprint0.Task1.V0.csproj" Id="f06c855a-ad1e-4e49-9ebf-0c38b6422f68" />
   </Folder>
 </Solution>
